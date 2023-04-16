@@ -1,0 +1,45 @@
+.flip-card {
+  width: 80px;
+  height: 80px;
+  border-radius: 7.3px;
+}
+.flip-card-inner{
+    border-radius: 7.3px;
+}
+.flip-card-front{
+    border-radius: 7.3px;
+    
+}
+.flip-card-back{
+    border-radius: 7.3px;
+    
+}
+img {
+    width: 80px;
+    height: 80px;
+    border-radius: 7.3px;
+}
+.container {
+  min-height: 70vh;
+  width: 100vw;
+}
+
+#email {
+  height: 7.5vh;
+}
+
+.cards{
+    grid-gap: 1.1rem;
+}
+
+.flip-card {
+    box-shadow: 0 0 5.5px 2.7px rgb(9, 160, 92);
+  }
+
+#username{
+  font-size: 1.5rem;
+}
+#home{
+    font-size: 1.5rem;
+    width: 4.5rem;
+}

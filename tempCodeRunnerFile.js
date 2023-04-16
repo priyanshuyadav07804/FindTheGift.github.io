@@ -1,0 +1,1 @@
+bomb.src = "dangerSign.webp"
