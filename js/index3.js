@@ -43,11 +43,11 @@ function loading() {
     let F5 = document.getElementById("img36");
     var elem = document.getElementById("myBar");
     var elem2 = document.getElementById("myB");
-    const musicSound = new Audio("/music/music.mp3");
-    const gameOverSound = new Audio("/music/over.mp3");
-    const missSound = new Audio("/music/miss.mp3");
-    const bonusSound = new Audio("/music/bonus.mp3");
-    const winSound = new Audio("/music/win.mp3")
+    const musicSound = new Audio("music/music.mp3");
+    const gameOverSound = new Audio("music/over.mp3");
+    const missSound = new Audio("music/miss.mp3");
+    const bonusSound = new Audio("music/bonus.mp3");
+    const winSound = new Audio("music/win.mp3")
     let progress = 0;
     let giftCount = 0;
     let countp = 0;
