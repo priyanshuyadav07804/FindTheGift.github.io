@@ -44,3 +44,38 @@ img {
     width: 2.1rem;
 
 }
+#myB {
+  width: 39%;
+  height: 3px;
+  color: white;
+  background-color: rgb(41, 255, 3);
+  box-shadow: 0 0 15px 3px rgb(9, 160, 92);
+  line-height: 10vh;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#myP {
+  width: 80%;
+  height: 3px;
+  background-color: rgb(148, 148, 148);
+  border: 2px solid black;
+}
+h1{
+  font-size: 28px;
+  background-color: #000;
+}
+.card{
+  display: flex;
+  width: 86vw;
+  height: 30vh;
+  background: #000;
+  border: 3px solid white;
+  box-shadow: 0 0 20px 7px rgb(242, 0, 255);
+  border-radius: 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 1.5rem;
+
+}
